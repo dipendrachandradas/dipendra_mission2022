@@ -1,0 +1,65 @@
+h1{
+    font-size: 70px;
+}
+
+.mission_h h1{
+    border-left: 4px solid rgb(248, 129, 49);
+    border-radius: 4px;
+    padding-left: 20px;
+}
+.orange{
+    color: orange;
+}
+.my-mission{
+   padding-left: 25%;
+   }
+.half-width{
+    width: 50%;
+    padding: 2%;
+}
+.display-flex{
+    display: flex;
+}
+.mission-baground{
+    background-color: paleturquoise;
+    margin-right: 30px;
+}
+.vission-baground{
+    background-color: rgb(168, 168, 192);
+    margin-right: 30px;
+}
+.goals-baground{
+    background-color: rgb(255, 190, 255);
+}
+.radius{
+    border-radius: 10px;
+}
+.half-width img{
+    width: 40%;
+}
+.link-b-e{
+    text-decoration: none;
+   background-image: linear-gradient(tomato, orange);
+    padding: 10px 40px;
+    border-radius: 8px;
+    color: white;
+   font-weight: 700;
+}
+.width-img{
+    padding-left: 150px;
+}
+footer{
+    background-color: black;
+    height: 160px;
+    text-align: center;
+}
+footer h1{
+    color: white;
+}
+.h-tag{
+    color: red;
+}
+footer p{
+    color: rgb(143, 92, 16);
+    font-size: 16px;
+}
